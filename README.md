@@ -36,11 +36,13 @@ A simple and responsive notes-taking application built using React. Users can cr
 
 ## 📸 Screenshot
 
-<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/4418b138-0ac2-4d45-b43c-37b5bca25a07" />
-    After clicking on the "Take a note" tab : 
-<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/85ffa646-1f7d-462d-96a0-e2a470ef6c57" />
-    After adding an item : 
-<img width="959" height="455" alt="image" src="https://github.com/user-attachments/assets/89d36d18-4bbf-4ab0-a844-d0c307a97313" />
+<img width="959" height="451" alt="Landing page" src="https://github.com/user-attachments/assets/4418b138-0ac2-4d45-b43c-37b5bca25a07" />
+
+### After clicking on the "Take a note" tab:
+<img width="959" height="452" alt="Note input area" src="https://github.com/user-attachments/assets/85ffa646-1f7d-462d-96a0-e2a470ef6c57" />
+
+### After adding an item:
+<img width="959" height="455" alt="Added note" src="https://github.com/user-attachments/assets/89d36d18-4bbf-4ab0-a844-d0c307a97313" />
 
 ---
 
